@@ -109,3 +109,20 @@ a{
     /*sormagasság */
     line-height: 20px;
 }
+
+h2{
+    text-decoration: underline;
+}
+
+.vastag{
+    /*vastagon szedett, félkövér*/
+    font-weight: bold;
+}
+
+h4{
+    /*dőlt*/
+    /*1. megoldás */
+    font-style: italic;
+    /*2. megoldás */
+    font-style: oblique;
+}
